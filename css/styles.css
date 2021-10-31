@@ -46,7 +46,6 @@ button {
 body {
 	font-family: "Raleway", sans-serif;
 	font-family: "Roboto", sans-serif;
-	width: 1600px;
 	height: auto;
 	background: #fff;
 	color: var(--main-color);
